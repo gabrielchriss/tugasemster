@@ -128,7 +128,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     </div>
 
     <footer class="watermark">
-        &copy; 2020 Sistem Akademik - Dibuat oleh Gabriel Christopher
+        &copy; 2025 Sistem Akademik - Dibuat oleh Gabriel Christopher
     </footer>
 
 </body>
